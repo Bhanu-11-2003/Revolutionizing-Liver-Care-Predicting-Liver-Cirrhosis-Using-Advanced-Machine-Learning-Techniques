@@ -1,0 +1,3 @@
+## Milestone 1: Define Problem / Problem Understanding
+- Problem: Predict liver cirrhosis based on patient data
+- Target: Classify whether liver cirrhosis is present or not
